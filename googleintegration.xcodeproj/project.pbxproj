@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2A22CE115606296731C8D432 /* libPods-googleintegration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FDEA6285C53F85537B35416 /* libPods-googleintegration.a */; };
-		890535F51FB7601D007FCB46 /* exp2.png in Resources */ = {isa = PBXBuildFile; fileRef = 890535F41FB7601C007FCB46 /* exp2.png */; };
 		895FCA571FB63C25006FA0C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895FCA561FB63C25006FA0C5 /* AppDelegate.swift */; };
 		895FCA591FB63C25006FA0C5 /* MapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895FCA581FB63C25006FA0C5 /* MapsViewController.swift */; };
 		895FCA5C1FB63C25006FA0C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 895FCA5A1FB63C25006FA0C5 /* Main.storyboard */; };
@@ -39,7 +38,6 @@
 /* Begin PBXFileReference section */
 		18A83581B1371CFAA3A19C83 /* Pods-googleintegration.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-googleintegration.release.xcconfig"; path = "Pods/Target Support Files/Pods-googleintegration/Pods-googleintegration.release.xcconfig"; sourceTree = "<group>"; };
 		1FDEA6285C53F85537B35416 /* libPods-googleintegration.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-googleintegration.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		890535F41FB7601C007FCB46 /* exp2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = exp2.png; path = ../../../../../Desktop/exp2.png; sourceTree = "<group>"; };
 		895FCA531FB63C25006FA0C5 /* googleintegration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = googleintegration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		895FCA561FB63C25006FA0C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		895FCA581FB63C25006FA0C5 /* MapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapsViewController.swift; sourceTree = "<group>"; };
@@ -121,7 +119,6 @@
 				895FCA581FB63C25006FA0C5 /* MapsViewController.swift */,
 				895FCA5A1FB63C25006FA0C5 /* Main.storyboard */,
 				895FCA5D1FB63C25006FA0C5 /* Assets.xcassets */,
-				890535F41FB7601C007FCB46 /* exp2.png */,
 				895FCA5F1FB63C25006FA0C5 /* LaunchScreen.storyboard */,
 				895FCA621FB63C25006FA0C5 /* Info.plist */,
 			);
@@ -265,7 +262,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				890535F51FB7601D007FCB46 /* exp2.png in Resources */,
 				895FCA871FB63CE9006FA0C5 /* Podfile in Resources */,
 				895FCA611FB63C25006FA0C5 /* LaunchScreen.storyboard in Resources */,
 				895FCA5E1FB63C25006FA0C5 /* Assets.xcassets in Resources */,
